@@ -1,1 +1,1 @@
-# Fintech-Finance---Banking-Application
+# Fintech-Finance-Banking-Application
