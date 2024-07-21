@@ -8,16 +8,12 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
 @SpringBootApplication
 public class FintechFinanceBankingApplication extends SpringBootServletInitializer {
-
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder applicationBuilder){
 		return applicationBuilder.sources(FintechFinanceBankingApplication.class);
 	}
-
 	public static void main(String[] args) {
 		SpringApplication.run(FintechFinanceBankingApplication.class, args);
 
 	}
-
-
 }
