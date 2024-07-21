@@ -16,4 +16,5 @@ public class FintechFinanceBankingApplication extends SpringBootServletInitializ
 		SpringApplication.run(FintechFinanceBankingApplication.class, args);
 
 	}
+
 }
