@@ -4,7 +4,7 @@ Welcome to the Fintech Finance Banking Application repository! This project is a
 
 ## Table of Contents
 
-- [Project Overview](#project overview)
+- [Introduction](#introduction)
 - [Structure](#structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
