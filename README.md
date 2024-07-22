@@ -57,6 +57,60 @@ Steps
    ```sh
    mvn spring-boot:run
    ```
+## Usage
+
+- Open a web browser (Google Chrome Proferred) and go to http://127.0.0.1:8076/ which will land to the home page.
+- Register a new account or log in with an existing account.
+- Navigate through the dashboard to manage accounts and perform transactions.
+
+## Requirements
+
+1.	Maven 3.0+
+2.	IntelliJ IDEA
+3.	JDK 1.8+
+4.	MySQL Workbench
+5.	Postman for testing
+6.	Email for account verification
+
+## API Endpoints
+
+User Endpoints
+- POST /register: Register a new user
+- POST /login: Authenticate a user through email
+- GET /logout: Logout a user
+
+Account Endpoints
+- GET /accounts: Get all accounts for a user
+- POST /accounts: Create a new account
+- PUT /accounts/{id}: Update account details
+- DELETE /accounts/{id}: Delete an account
+
+Transaction Endpoints
+- GET /transactions: Get all transactions for a user
+- POST /transactions/transfer: Transfer money between accounts
+- POST /transactions/deposit: Deposit money into an account
+- POST /transactions/withdraw: Withdraw money from an account
+
+## References
+
+1. [Spring Boot Documentation] (https://spring.io/guides/gs/spring-boot)
+2. [Spring Security Documentation] (https://spring.io/projects/spring-security)
+3. [Maven Documentation] (https://maven.apache.org/guides/index.html)
+4. [BCrypt Password Hashing] (https://www.mindrot.org/projects/jBCrypt/)
+5. [Email verification] (https://www.javaguides.net/2023/08/banking-application-using-spring-boot.html)
+6. [Banking Application using Spring Boot] (https://www.javaguides.net/2023/08/banking-application-using-spring-boot.html)
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+
+
+
+
+
+
 
 
 
