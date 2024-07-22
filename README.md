@@ -33,6 +33,39 @@ The Fintech Finance Banking Application is designed to provide users with a seam
 - Build Tool: Maven
 - Version Control: Git
 
+## Installation
+
+Prerequisites
+- Java 8 or higher
+- Maven
+- MySQL
+
+Steps
+
+1. Clone the repository to your local machine:
+   ```sh
+   git clone https://github.com/deep1020/Fintech-Finance-Banking-Application.git
+   ```
+2. Set up the database:
+   - Create a MySQL database named Fintech_Finance_Database.
+   - Update the database configuration in src/main/resources/application.properties.
+3. Build the project:
+   ```sh
+   mvn clean install
+   ```
+4. Run the application:
+   ```sh
+   mvn spring-boot:run
+   ```
+
+
+
+
+
+
+
+
+
 
 
 
