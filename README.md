@@ -12,7 +12,6 @@ Welcome to the Fintech Finance Banking Application repository! This project is a
 - [API Endpoints](#apiendpoints)
 - [Screenshots](#screenshots)
 - [References](#references)
-- [License](#license)
 
 ## Project Overview
 
@@ -100,9 +99,6 @@ Transaction Endpoints
 5. [Email verification] (https://www.javaguides.net/2023/08/banking-application-using-spring-boot.html)
 6. [Banking Application using Spring Boot] (https://www.javaguides.net/2023/08/banking-application-using-spring-boot.html)
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 
