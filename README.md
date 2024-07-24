@@ -90,6 +90,29 @@ Transaction Endpoints
 - POST /transactions/deposit: Deposit money into an account
 - POST /transactions/withdraw: Withdraw money from an account
 
+## Screenshots
+
+### Home Page [http://127.0.0.1:8076/]
+<img width="873" alt="Screenshot 2024-07-21 at 10 24 43 PM" src="https://github.com/user-attachments/assets/dac6e9b4-84a6-49e1-b157-bfafad653a24">
+
+### Register user [http://127.0.0.1:8076/register]
+<img width="891" alt="Screenshot 2024-07-24 at 9 39 44 AM" src="https://github.com/user-attachments/assets/dddddb7a-1877-4ba9-8179-c90ce80e778a">
+
+### Login user [http://127.0.0.1:8076/login]
+<img width="619" alt="Screenshot 2024-07-21 at 10 24 09 PM" src="https://github.com/user-attachments/assets/db1c6fb7-31b8-4071-a5b4-6572e73bbbce"> 
+
+### User Authentication
+<img width="627" alt="Screenshot 2024-07-21 at 10 33 17 PM" src="https://github.com/user-attachments/assets/437b2494-a871-4135-8824-3cbb9c934959">
+<img width="1184" alt="Screenshot 2024-07-21 at 10 30 29 PM" src="https://github.com/user-attachments/assets/9c32683b-5b55-4132-8469-bc9cc473a346">
+
+
+
+
+
+
+
+
+
 ## References
 
 1. [Spring Boot Documentation] (https://spring.io/guides/gs/spring-boot)
