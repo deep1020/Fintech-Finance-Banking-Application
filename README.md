@@ -105,6 +105,44 @@ Transaction Endpoints
 <img width="627" alt="Screenshot 2024-07-21 at 10 33 17 PM" src="https://github.com/user-attachments/assets/437b2494-a871-4135-8824-3cbb9c934959">
 <img width="1184" alt="Screenshot 2024-07-21 at 10 30 29 PM" src="https://github.com/user-attachments/assets/9c32683b-5b55-4132-8469-bc9cc473a346">
 
+### Dashboard
+<img width="1326" alt="Screenshot 2024-07-24 at 10 01 27 AM" src="https://github.com/user-attachments/assets/32d871d3-99cb-4e31-a3b9-43a72b6bdb84">
+
+### Create New Account
+<img width="386" alt="Screenshot 2024-07-24 at 10 11 34 AM" src="https://github.com/user-attachments/assets/716b8814-46ff-4a0f-b1d4-60ebc6d7967c">
+<img width="1335" alt="Screenshot 2024-07-24 at 10 14 27 AM" src="https://github.com/user-attachments/assets/86d1b2d3-00fc-4eb9-8d08-0a95520b7bb5">
+
+### Transaction Options
+<img width="386" alt="Screenshot 2024-07-24 at 10 18 49 AM" src="https://github.com/user-attachments/assets/5f253de3-5d09-4737-8e0f-83c678d15a0b">
+
+### Deposit
+<img width="391" alt="Screenshot 2024-07-24 at 10 20 33 AM" src="https://github.com/user-attachments/assets/62786339-cf33-43e9-b938-ef69d86c3c1b">
+<img width="1349" alt="Screenshot 2024-07-24 at 10 22 01 AM" src="https://github.com/user-attachments/assets/221d2051-3b4e-4a30-90ec-d2fc06943821">
+
+### Withdrawn
+<img width="387" alt="Screenshot 2024-07-24 at 10 30 01 AM" src="https://github.com/user-attachments/assets/115e6eea-ad5e-4be6-99d1-dadeba87c524">
+<img width="1335" alt="Screenshot 2024-07-24 at 10 32 23 AM" src="https://github.com/user-attachments/assets/d49db236-a385-4635-b3fd-8447f56c688a">
+
+### Transfer
+<img width="389" alt="Screenshot 2024-07-24 at 10 33 37 AM" src="https://github.com/user-attachments/assets/18dbcb5a-59e4-4517-af1d-771a0b6262b1">
+<img width="1349" alt="Screenshot 2024-07-24 at 10 34 06 AM" src="https://github.com/user-attachments/assets/c844d371-3d41-4e01-9e07-42b3f47e0d22">
+
+### Payments
+- Account Holder Name and Beneficiary Account Number should be exist to proceed payments
+- Entered amount should be less than or equal to current balance in selected account
+<img width="390" alt="Screenshot 2024-07-24 at 10 57 34 AM" src="https://github.com/user-attachments/assets/ad2a17e5-2f7a-479e-aa49-9ff2592c9ff1">
+<img width="1342" alt="Screenshot 2024-07-24 at 10 59 07 AM" src="https://github.com/user-attachments/assets/950ec51a-acc2-4bdd-b3cb-d4fa42de9340">
+<img width="1351" alt="Screenshot 2024-07-24 at 10 59 43 AM" src="https://github.com/user-attachments/assets/9984cd7e-80aa-497d-a5b9-2370ce966e63">
+
+
+
+
+
+
+
+
+
+
 
 
 
