@@ -93,19 +93,27 @@ Transaction Endpoints
 ## Screenshots
 
 ### Home Page [http://127.0.0.1:8076/]
+- When you run this application, home page is displayed where you have some information about this application with login and register button. 
 <img width="873" alt="Screenshot 2024-07-21 at 10 24 43 PM" src="https://github.com/user-attachments/assets/dac6e9b4-84a6-49e1-b157-bfafad653a24">
 
 ### Register user [http://127.0.0.1:8076/register]
+- On the register page, user needs to fill required fields such as First Name, Last Name, Email, Password, and Confirm Password.
+- If email is already registered i.e use already craeted an account, an error message is displayed.
 <img width="891" alt="Screenshot 2024-07-24 at 9 39 44 AM" src="https://github.com/user-attachments/assets/dddddb7a-1877-4ba9-8179-c90ce80e778a">
 
 ### Login user [http://127.0.0.1:8076/login]
+- On the login page, user needs to enter their email and password to access their accounts. The form includes validation to ensure that both fields are filled before submission.
+- If the credentials are incorrect, an error message is displayed.
 <img width="619" alt="Screenshot 2024-07-21 at 10 24 09 PM" src="https://github.com/user-attachments/assets/db1c6fb7-31b8-4071-a5b4-6572e73bbbce"> 
 
 ### User Authentication
+- After register an account, users receive a verification email. The account verification page prompts users to enter the verification link sent to their email to complete the authentication process.
+- Without account verification, user is not allowed to login.
 <img width="627" alt="Screenshot 2024-07-21 at 10 33 17 PM" src="https://github.com/user-attachments/assets/437b2494-a871-4135-8824-3cbb9c934959">
 <img width="1184" alt="Screenshot 2024-07-21 at 10 30 29 PM" src="https://github.com/user-attachments/assets/9c32683b-5b55-4132-8469-bc9cc473a346">
 
 ### Dashboard
+- The dashboard provides an overview of the user's accounts and recent transactions. Users can view their account balances, recent transactions, and access features like money transfers and account management.
 <img width="1326" alt="Screenshot 2024-07-24 at 10 01 27 AM" src="https://github.com/user-attachments/assets/32d871d3-99cb-4e31-a3b9-43a72b6bdb84">
 
 ### Create New Account
@@ -134,22 +142,11 @@ Transaction Endpoints
 <img width="1342" alt="Screenshot 2024-07-24 at 10 59 07 AM" src="https://github.com/user-attachments/assets/950ec51a-acc2-4bdd-b3cb-d4fa42de9340">
 <img width="1351" alt="Screenshot 2024-07-24 at 10 59 43 AM" src="https://github.com/user-attachments/assets/9984cd7e-80aa-497d-a5b9-2370ce966e63">
 
+### Transaction History
+<img width="1338" alt="Screenshot 2024-07-24 at 12 24 46 PM" src="https://github.com/user-attachments/assets/a8509780-16f6-4565-81ce-3c7ae62fbdbc">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Payment History
+<img width="1332" alt="Screenshot 2024-07-24 at 12 26 34 PM" src="https://github.com/user-attachments/assets/b1af6477-7f08-4e5e-a18e-4fadc1bee20b">
 
 ## References
 
